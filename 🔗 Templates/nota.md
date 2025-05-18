@@ -1,7 +1,5 @@
 # 📅 Nota Diária – {{date:DD-MM-YYYY}}
 
-[← Ontem](../{{date-1:DD-MM-YYYY}}) | [Amanhã →](../{{date+1:DD-MM-YYYY}})
-
 ---
 ## 🙋‍♂️ Reflexão Pessoal
 
