@@ -1,0 +1,10 @@
+.stfolder
+.stfolder.removed-*
+.trash
+.DS_Store
+Thumbs.db
+*.swp
+.obsidian/
+cache/
+workspace.json
+workspace.md
