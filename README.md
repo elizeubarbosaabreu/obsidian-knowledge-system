@@ -53,7 +53,7 @@ Um sistema minimalista e poderoso de gestão de conhecimento pessoal baseado em 
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/obsidian-knowledge-system.git
+git clone https://github.com/elizeubarbosaabreu/obsidian-knowledge-system.git
 ```
 
 2. **Abra o diretório no Obsidian:**
@@ -80,5 +80,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## ✍️ Autor
 
 **Elizeu Barbosa Abreu**  
-📫 [@elizeubarbosaabreu no YouTube](https://www.youtube.com/@elizeudev)  
+📫 [@elizeudev no YouTube](https://www.youtube.com/@elizeudev)  
 
