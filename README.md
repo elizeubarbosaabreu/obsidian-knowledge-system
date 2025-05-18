@@ -31,7 +31,7 @@ Um sistema minimalista e poderoso de gestão de conhecimento pessoal baseado em 
 2. **✍️ Rascunhos**: desenvolva as ideias antes de lapidá-las.
 3. **💡 Conceitos**: crie notas atômicas com uma ideia clara por nota.
 4. **🔗 Use links internos `[[...]]` para interconectar tudo.**
-5. **📅 Diário**: registre seu dia, metas e desafios.
+5. **📅 Diário**: registre seu dia, metas e desafios. (UTILIZE O PLUGIN DE NOTAS DIÁRIAS E O TEMPLATE DISPONÍVEL EM *Templates/diario*.)
 6. **📈 Revisões**: revise frequentemente para fixar o conteúdo.
 
 > Este fluxo ajuda a organizar o pensamento, aprender com profundidade e aplicar o conhecimento de forma estratégica.
